@@ -1,0 +1,70 @@
+﻿<Window x:Class="GörselProgramlamaFinal.Anasayfa"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:GörselProgramlamaFinal"
+        mc:Ignorable="d"
+        Title="Anasayfa" Height="500" Width="800" Margin="0,0,0,0" WindowStartupLocation="CenterScreen" WindowStyle="None">
+    <Grid>
+        <Grid.Background>
+            <ImageBrush ImageSource="/dPBxccQ7nOKwtWqV.jpeg" TileMode="None" Stretch="UniformToFill"/>
+        </Grid.Background>
+        <Label Content="       Vodafone Müşteri Hizmetleri" HorizontalAlignment="Left" VerticalAlignment="Top" Width="670" Height="75" FontFamily="Franklin Gothic Demi" FontSize="40" FontWeight="Bold" Margin="75,10,0,0" Background="{x:Null}">
+            <Label.Foreground>
+                <RadialGradientBrush>
+                    <GradientStop Color="#FFFCFCFC" Offset="1"/>
+                    <GradientStop Color="#FFC80000"/>
+                </RadialGradientBrush>
+            </Label.Foreground>
+        </Label>
+        <Button Name="btnHat" Click="btnHat_Click" HorizontalAlignment="Center" Margin="0,231,0,0" VerticalAlignment="Top" Height="121" Width="199" BorderBrush="#FFD00002" Foreground="{x:Null}" RenderTransformOrigin="1.045,0.551">
+            <Button.Effect>
+                <DropShadowEffect/>
+            </Button.Effect>
+            <Button.Background>
+                <ImageBrush  Stretch="Fill" TileMode="None" ImageSource="/IMG_WantaFreeSim_Large@2x.jpg"/>
+            </Button.Background>
+        </Button>
+        <Button Name="btnModem" Click="btnModem_Click" HorizontalAlignment="Left" Margin="559,232,0,0" VerticalAlignment="Top" Height="120" Width="200" BorderBrush="#FF750002" Foreground="{x:Null}">
+            <Button.Effect>
+                <DropShadowEffect/>
+            </Button.Effect>
+            <Button.Background>
+                <ImageBrush  TileMode="Tile" Stretch="Fill" ImageSource="/vodafone-altyapisiz-internet.jpg"/>
+            </Button.Background>
+        </Button>
+        <Button Name="btnAlisverisler" Click="btnAlisverisler_Click" HorizontalAlignment="Left" Margin="37,231,0,0" VerticalAlignment="Top" Height="121" Width="199" BorderBrush="#FF750002" Cursor="Hand" Foreground="{x:Null}">
+            <Button.Effect>
+                <DropShadowEffect/>
+            </Button.Effect>
+            <Button.Background>
+                <ImageBrush Stretch="UniformToFill" ImageSource="/1400x1400vodafone-un-e-ticaret-platformu-her-sey-yanimda-acildi.jpg"/>
+            </Button.Background>
+        </Button>
+        <Label Content="Alışveriş" Height="48" Width="182" FontSize="32" FontFamily="Franklin Gothic Demi" FontWeight="Bold" HorizontalAlignment="Left" Margin="75,357,0,0" VerticalAlignment="Top">
+            <Label.Foreground>
+                <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                    <GradientStop Color="#FFB10002" Offset="1"/>
+                    <GradientStop Color="White" Offset="0"/>
+                </LinearGradientBrush>
+            </Label.Foreground>
+        </Label>
+        <Label Content="Hat İşlemleri" Height="48" Width="196" FontSize="32" FontFamily="Franklin Gothic Demi" FontWeight="Bold" HorizontalAlignment="Left" Margin="304,357,0,0" VerticalAlignment="Top" Background="{x:Null}">
+            <Label.Foreground>
+                <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                    <GradientStop Color="#FFC20004" Offset="1"/>
+                    <GradientStop Color="White" Offset="0"/>
+                </LinearGradientBrush>
+            </Label.Foreground>
+        </Label>
+        <Label Content="Ev İnterneti" Height="48" Width="196" FontSize="32" FontFamily="Franklin Gothic Demi" FontWeight="Bold" HorizontalAlignment="Left" Margin="577,357,0,0" VerticalAlignment="Top">
+            <Label.Foreground>
+                <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                    <GradientStop Color="White" Offset="0"/>
+                    <GradientStop Color="#FFC00004" Offset="1"/>
+                </LinearGradientBrush>
+            </Label.Foreground>
+        </Label>
+    </Grid>
+</Window>

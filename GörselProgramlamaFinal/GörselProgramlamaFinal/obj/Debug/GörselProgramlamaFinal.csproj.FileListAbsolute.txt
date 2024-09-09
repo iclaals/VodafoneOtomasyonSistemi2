@@ -1,0 +1,62 @@
+C:\Users\iclal\Desktop\3. Sınıf Görsel Progamlama\GörselProgramlamaFinal\GörselProgramlamaFinal\obj\Debug\GörselProgramlamaFinal.csproj.AssemblyReference.cache
+C:\Users\iclal\Desktop\3. Sınıf Görsel Progamlama\GörselProgramlamaFinal\GörselProgramlamaFinal\obj\Debug\GörselProgramlamaFinal.csproj.SuggestedBindingRedirects.cache
+C:\Users\iclal\Desktop\3. Sınıf Görsel Progamlama\GörselProgramlamaFinal\GörselProgramlamaFinal\obj\Debug\MainWindow.g.cs
+C:\Users\iclal\Desktop\3. Sınıf Görsel Progamlama\GörselProgramlamaFinal\GörselProgramlamaFinal\obj\Debug\App.g.cs
+C:\Users\iclal\Desktop\3. Sınıf Görsel Progamlama\GörselProgramlamaFinal\GörselProgramlamaFinal\obj\Debug\GörselProgramlamaFinal_MarkupCompile.cache
+C:\Users\iclal\Desktop\3. Sınıf Görsel Progamlama\GörselProgramlamaFinal\GörselProgramlamaFinal\obj\Debug\GörselProgramlamaFinal_MarkupCompile.lref
+C:\Users\iclal\Desktop\3. Sınıf Görsel Progamlama\GörselProgramlamaFinal\GörselProgramlamaFinal\obj\Debug\Anasayfa.g.cs
+C:\Users\iclal\Desktop\3. Sınıf Görsel Progamlama\GörselProgramlamaFinal\GörselProgramlamaFinal\obj\Debug\Hat.g.cs
+C:\Users\iclal\Desktop\3. Sınıf Görsel Progamlama\GörselProgramlamaFinal\GörselProgramlamaFinal\bin\Debug\GörselProgramlamaFinal.exe.config
+C:\Users\iclal\Desktop\3. Sınıf Görsel Progamlama\GörselProgramlamaFinal\GörselProgramlamaFinal\bin\Debug\GörselProgramlamaFinal.exe
+C:\Users\iclal\Desktop\3. Sınıf Görsel Progamlama\GörselProgramlamaFinal\GörselProgramlamaFinal\bin\Debug\GörselProgramlamaFinal.pdb
+C:\Users\iclal\Desktop\3. Sınıf Görsel Progamlama\GörselProgramlamaFinal\GörselProgramlamaFinal\bin\Debug\EntityFramework.dll
+C:\Users\iclal\Desktop\3. Sınıf Görsel Progamlama\GörselProgramlamaFinal\GörselProgramlamaFinal\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\iclal\Desktop\3. Sınıf Görsel Progamlama\GörselProgramlamaFinal\GörselProgramlamaFinal\bin\Debug\EntityFramework.xml
+C:\Users\iclal\Desktop\3. Sınıf Görsel Progamlama\GörselProgramlamaFinal\GörselProgramlamaFinal\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\iclal\Desktop\3. Sınıf Görsel Progamlama\GörselProgramlamaFinal\GörselProgramlamaFinal\obj\Debug\Anasayfa.baml
+C:\Users\iclal\Desktop\3. Sınıf Görsel Progamlama\GörselProgramlamaFinal\GörselProgramlamaFinal\obj\Debug\Hat.baml
+C:\Users\iclal\Desktop\3. Sınıf Görsel Progamlama\GörselProgramlamaFinal\GörselProgramlamaFinal\obj\Debug\MainWindow.baml
+C:\Users\iclal\Desktop\3. Sınıf Görsel Progamlama\GörselProgramlamaFinal\GörselProgramlamaFinal\obj\Debug\GörselProgramlamaFinal.g.resources
+C:\Users\iclal\Desktop\3. Sınıf Görsel Progamlama\GörselProgramlamaFinal\GörselProgramlamaFinal\obj\Debug\GörselProgramlamaFinal.Properties.Resources.resources
+C:\Users\iclal\Desktop\3. Sınıf Görsel Progamlama\GörselProgramlamaFinal\GörselProgramlamaFinal\obj\Debug\GörselProgramlamaFinal.csproj.GenerateResource.cache
+C:\Users\iclal\Desktop\3. Sınıf Görsel Progamlama\GörselProgramlamaFinal\GörselProgramlamaFinal\obj\Debug\GörselProgramlamaFinal.csproj.CoreCompileInputs.cache
+C:\Users\iclal\Desktop\3. Sınıf Görsel Progamlama\GörselProgramlamaFinal\GörselProgramlamaFinal\obj\Debug\GörselProgramlamaFinal.csproj.CopyComplete
+C:\Users\iclal\Desktop\3. Sınıf Görsel Progamlama\GörselProgramlamaFinal\GörselProgramlamaFinal\obj\Debug\GörselProgramlamaFinal.exe
+C:\Users\iclal\Desktop\3. Sınıf Görsel Progamlama\GörselProgramlamaFinal\GörselProgramlamaFinal\obj\Debug\GörselProgramlamaFinal.pdb
+C:\Users\iclal\Desktop\3. Sınıf Görsel Progamlama\GörselProgramlamaFinal\GörselProgramlamaFinal\obj\Debug\Alisveris1.g.cs
+C:\Users\iclal\Desktop\3. Sınıf Görsel Progamlama\GörselProgramlamaFinal\GörselProgramlamaFinal\obj\Debug\Modem1.g.cs
+C:\Users\iclal\Desktop\3. Sınıf Görsel Progamlama\GörselProgramlamaFinal\GörselProgramlamaFinal\obj\Debug\Alisveris1.baml
+C:\Users\iclal\Desktop\3. Sınıf Görsel Progamlama\GörselProgramlamaFinal\GörselProgramlamaFinal\obj\Debug\Modem1.baml
+C:\Users\iclal\Desktop\3. Sınıf Görsel Progamlama\GörselProgramlamaFinal\GörselProgramlamaFinal\obj\Debug\GörselProgramlamaFinal.Migrations.mig_1.resources
+C:\Users\iclal\Desktop\3. Sınıf Görsel Progamlama\GörselProgramlamaFinal\GörselProgramlamaFinal\obj\Debug\GörselProgramlamaFinal.Migrations.mig_2.resources
+C:\Users\iclal\Desktop\Görsel Programlama Final\GörselProgramlamaFinal\GörselProgramlamaFinal\bin\Debug\GörselProgramlamaFinal.exe.config
+C:\Users\iclal\Desktop\Görsel Programlama Final\GörselProgramlamaFinal\GörselProgramlamaFinal\bin\Debug\GörselProgramlamaFinal.exe
+C:\Users\iclal\Desktop\Görsel Programlama Final\GörselProgramlamaFinal\GörselProgramlamaFinal\bin\Debug\GörselProgramlamaFinal.pdb
+C:\Users\iclal\Desktop\Görsel Programlama Final\GörselProgramlamaFinal\GörselProgramlamaFinal\bin\Debug\EntityFramework.dll
+C:\Users\iclal\Desktop\Görsel Programlama Final\GörselProgramlamaFinal\GörselProgramlamaFinal\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\iclal\Desktop\Görsel Programlama Final\GörselProgramlamaFinal\GörselProgramlamaFinal\bin\Debug\EntityFramework.xml
+C:\Users\iclal\Desktop\Görsel Programlama Final\GörselProgramlamaFinal\GörselProgramlamaFinal\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\iclal\Desktop\Görsel Programlama Final\GörselProgramlamaFinal\GörselProgramlamaFinal\obj\Debug\GörselProgramlamaFinal.csproj.AssemblyReference.cache
+C:\Users\iclal\Desktop\Görsel Programlama Final\GörselProgramlamaFinal\GörselProgramlamaFinal\obj\Debug\GörselProgramlamaFinal.csproj.SuggestedBindingRedirects.cache
+C:\Users\iclal\Desktop\Görsel Programlama Final\GörselProgramlamaFinal\GörselProgramlamaFinal\obj\Debug\Alisveris1.g.cs
+C:\Users\iclal\Desktop\Görsel Programlama Final\GörselProgramlamaFinal\GörselProgramlamaFinal\obj\Debug\Anasayfa.g.cs
+C:\Users\iclal\Desktop\Görsel Programlama Final\GörselProgramlamaFinal\GörselProgramlamaFinal\obj\Debug\Hat.g.cs
+C:\Users\iclal\Desktop\Görsel Programlama Final\GörselProgramlamaFinal\GörselProgramlamaFinal\obj\Debug\MainWindow.g.cs
+C:\Users\iclal\Desktop\Görsel Programlama Final\GörselProgramlamaFinal\GörselProgramlamaFinal\obj\Debug\Modem1.g.cs
+C:\Users\iclal\Desktop\Görsel Programlama Final\GörselProgramlamaFinal\GörselProgramlamaFinal\obj\Debug\App.g.cs
+C:\Users\iclal\Desktop\Görsel Programlama Final\GörselProgramlamaFinal\GörselProgramlamaFinal\obj\Debug\GörselProgramlamaFinal_MarkupCompile.cache
+C:\Users\iclal\Desktop\Görsel Programlama Final\GörselProgramlamaFinal\GörselProgramlamaFinal\obj\Debug\GörselProgramlamaFinal_MarkupCompile.lref
+C:\Users\iclal\Desktop\Görsel Programlama Final\GörselProgramlamaFinal\GörselProgramlamaFinal\obj\Debug\Alisveris1.baml
+C:\Users\iclal\Desktop\Görsel Programlama Final\GörselProgramlamaFinal\GörselProgramlamaFinal\obj\Debug\Anasayfa.baml
+C:\Users\iclal\Desktop\Görsel Programlama Final\GörselProgramlamaFinal\GörselProgramlamaFinal\obj\Debug\Hat.baml
+C:\Users\iclal\Desktop\Görsel Programlama Final\GörselProgramlamaFinal\GörselProgramlamaFinal\obj\Debug\MainWindow.baml
+C:\Users\iclal\Desktop\Görsel Programlama Final\GörselProgramlamaFinal\GörselProgramlamaFinal\obj\Debug\Modem1.baml
+C:\Users\iclal\Desktop\Görsel Programlama Final\GörselProgramlamaFinal\GörselProgramlamaFinal\obj\Debug\GörselProgramlamaFinal.g.resources
+C:\Users\iclal\Desktop\Görsel Programlama Final\GörselProgramlamaFinal\GörselProgramlamaFinal\obj\Debug\GörselProgramlamaFinal.Migrations.mig_1.resources
+C:\Users\iclal\Desktop\Görsel Programlama Final\GörselProgramlamaFinal\GörselProgramlamaFinal\obj\Debug\GörselProgramlamaFinal.Migrations.mig_2.resources
+C:\Users\iclal\Desktop\Görsel Programlama Final\GörselProgramlamaFinal\GörselProgramlamaFinal\obj\Debug\GörselProgramlamaFinal.Properties.Resources.resources
+C:\Users\iclal\Desktop\Görsel Programlama Final\GörselProgramlamaFinal\GörselProgramlamaFinal\obj\Debug\GörselProgramlamaFinal.csproj.GenerateResource.cache
+C:\Users\iclal\Desktop\Görsel Programlama Final\GörselProgramlamaFinal\GörselProgramlamaFinal\obj\Debug\GörselProgramlamaFinal.csproj.CoreCompileInputs.cache
+C:\Users\iclal\Desktop\Görsel Programlama Final\GörselProgramlamaFinal\GörselProgramlamaFinal\obj\Debug\GörselProgramlamaFinal.csproj.CopyComplete
+C:\Users\iclal\Desktop\Görsel Programlama Final\GörselProgramlamaFinal\GörselProgramlamaFinal\obj\Debug\GörselProgramlamaFinal.exe
+C:\Users\iclal\Desktop\Görsel Programlama Final\GörselProgramlamaFinal\GörselProgramlamaFinal\obj\Debug\GörselProgramlamaFinal.pdb

@@ -1,0 +1,48 @@
+﻿<Window x:Class="GörselProgramlamaFinal.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:GörselProgramlamaFinal"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800" WindowStartupLocation="CenterScreen" >
+    <Grid>
+        <Grid.Background>
+            <ImageBrush ImageSource="/360_F_401881089_alVTYy9uynO8fc54Q4c63eq0jvCpWTNw.jpg"/>
+        </Grid.Background>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="0*"/>
+            <ColumnDefinition Width="94*"/>
+            <ColumnDefinition Width="11*"/>
+            <ColumnDefinition Width="295*"/>
+        </Grid.ColumnDefinitions>
+        <Label Grid.Column="3" Content="Kullanıcı Adı" HorizontalAlignment="Left" Margin="23,132,0,0" VerticalAlignment="Top" Height="40" Width="137" FontSize="22" FontFamily="Franklin Gothic Demi" FontWeight="Bold">
+            <Label.Foreground>
+                <RadialGradientBrush>
+                    <GradientStop Color="#FFD21C00" Offset="1"/>
+                    <GradientStop Color="White" Offset="0"/>
+                </RadialGradientBrush>
+            </Label.Foreground>
+        </Label>
+        <Label Grid.Column="3" Content="Parola" HorizontalAlignment="Left" Margin="50,196,0,0" VerticalAlignment="Top" Height="40" Width="84" FontSize="22" FontWeight="Bold" FontFamily="Franklin Gothic Book" Background="{x:Null}">
+            <Label.Foreground>
+                <RadialGradientBrush>
+                    <GradientStop Color="White" Offset="0"/>
+                    <GradientStop Color="#FFD21C00" Offset="1"/>
+                </RadialGradientBrush>
+            </Label.Foreground>
+        </Label>
+        <TextBox Name="txt_username" Grid.Column="3" HorizontalAlignment="Left" Margin="165,133,0,0" VerticalAlignment="Top" Width="192" Height="37" FontSize="24" SelectionBrush="#FFDF1E00" FontFamily="Franklin Gothic Demi" Foreground="#FFD21C00" FontWeight="Bold" Cursor="IBeam"/>
+        <PasswordBox Name="txt_password" Grid.Column="3" HorizontalAlignment="Left" Margin="165,0,0,0" VerticalAlignment="Center" Width="192" Height="37" FontSize="24" SelectionBrush="#FFDF1E00" FontFamily="Franklin Gothic Demi" FontWeight="Bold" Foreground="#FFD21C00" Cursor="IBeam"></PasswordBox>
+        <Button Grid.Column="3" Content="Login" HorizontalAlignment="Left" Margin="36,320,0,0" VerticalAlignment="Top" Height="51" Width="153" x:Name="btn_Login" Click="Login_Click" FontSize="24" FontWeight="Bold" FontFamily="Franklin Gothic Demi" Cursor="Hand" Foreground="#FF680203">
+            <Button.Background>
+                <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                    <GradientStop Color="#FFD21C00" Offset="0.611"/>
+                    <GradientStop Color="#FFD21C00" Offset="1"/>
+                    <GradientStop Offset="0" Color="White"/>
+                </LinearGradientBrush>
+            </Button.Background>
+        </Button>
+        <Label Grid.Column="3" Content="Vodafone Sistemi Giriş Sayfası" HorizontalAlignment="Left" Margin="36,60,0,0" VerticalAlignment="Top" FontSize="22" FontFamily=" Source Cde Pro Black" FontWeight="DemiBold" Height="36" Width="308" RenderTransformOrigin="0.723,0.593"/>
+    </Grid>
+</Window>

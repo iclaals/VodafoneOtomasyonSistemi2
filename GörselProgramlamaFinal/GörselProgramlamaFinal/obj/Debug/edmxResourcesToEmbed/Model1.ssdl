@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="VodafoneDbModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="Alisveris">
+    <Key>
+      <PropertyRef Name="UrunId" />
+    </Key>
+    <Property Name="UrunId" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="Marka" Type="varchar" MaxLength="50" />
+    <Property Name="Model" Type="varchar" MaxLength="50" />
+    <Property Name="Renk" Type="varchar" MaxLength="50" />
+    <Property Name="Fiyat" Type="int" />
+  </EntityType>
+  <EntityType Name="Hat">
+    <Key>
+      <PropertyRef Name="HatId" />
+    </Key>
+    <Property Name="HatId" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="Ad" Type="varchar" MaxLength="50" />
+    <Property Name="Soyad" Type="varchar" MaxLength="50" />
+    <Property Name="Kimlik" Type="int" />
+    <Property Name="Sehir" Type="varchar" MaxLength="50" />
+  </EntityType>
+  <EntityType Name="Login">
+    <Key>
+      <PropertyRef Name="KullaniciId" />
+    </Key>
+    <Property Name="KullaniciId" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="KullaniciAd" Type="varchar" MaxLength="50" />
+    <Property Name="Parola" Type="varchar" MaxLength="50" />
+  </EntityType>
+  <EntityType Name="Modem">
+    <Key>
+      <PropertyRef Name="ModemId" />
+    </Key>
+    <Property Name="ModemId" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="Ad" Type="varchar" MaxLength="50" />
+    <Property Name="Soyad" Type="varchar" MaxLength="50" />
+    <Property Name="Kimlik" Type="int" />
+    <Property Name="Sehir" Type="varchar" MaxLength="50" />
+  </EntityType>
+  <EntityContainer Name="VodafoneDbModelStoreContainer">
+    <EntitySet Name="Alisveris" EntityType="Self.Alisveris" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Hat" EntityType="Self.Hat" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Login" EntityType="Self.Login" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Modem" EntityType="Self.Modem" Schema="dbo" store:Type="Tables" />
+  </EntityContainer>
+</Schema>

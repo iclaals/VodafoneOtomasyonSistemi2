@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="VodafoneDbModelStoreContainer" CdmEntityContainer="VodafoneDbEntities">
+    <EntitySetMapping Name="Alisveris">
+      <EntityTypeMapping TypeName="VodafoneDbModel.Alisveris">
+        <MappingFragment StoreEntitySet="Alisveris">
+          <ScalarProperty Name="UrunId" ColumnName="UrunId" />
+          <ScalarProperty Name="Marka" ColumnName="Marka" />
+          <ScalarProperty Name="Model" ColumnName="Model" />
+          <ScalarProperty Name="Renk" ColumnName="Renk" />
+          <ScalarProperty Name="Fiyat" ColumnName="Fiyat" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Hat">
+      <EntityTypeMapping TypeName="VodafoneDbModel.Hat">
+        <MappingFragment StoreEntitySet="Hat">
+          <ScalarProperty Name="HatId" ColumnName="HatId" />
+          <ScalarProperty Name="Ad" ColumnName="Ad" />
+          <ScalarProperty Name="Soyad" ColumnName="Soyad" />
+          <ScalarProperty Name="Kimlik" ColumnName="Kimlik" />
+          <ScalarProperty Name="Sehir" ColumnName="Sehir" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Logins">
+      <EntityTypeMapping TypeName="VodafoneDbModel.Logins">
+        <MappingFragment StoreEntitySet="Logins">
+          <ScalarProperty Name="userId" ColumnName="userId" />
+          <ScalarProperty Name="username" ColumnName="username" />
+          <ScalarProperty Name="password" ColumnName="password" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Modem">
+      <EntityTypeMapping TypeName="VodafoneDbModel.Modem">
+        <MappingFragment StoreEntitySet="Modem">
+          <ScalarProperty Name="ModemId" ColumnName="ModemId" />
+          <ScalarProperty Name="Ad" ColumnName="Ad" />
+          <ScalarProperty Name="Soyad" ColumnName="Soyad" />
+          <ScalarProperty Name="Kimlik" ColumnName="Kimlik" />
+          <ScalarProperty Name="Sehir" ColumnName="Sehir" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>
